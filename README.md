@@ -75,6 +75,13 @@ Ecommerce         →   Custom PHP · Laravel-based platforms
 
 ---
 
+### 🌍 Open Source Contributions
+
+- Contributing bug fixes to [PrestaShop](https://github.com/PrestaShop/PrestaShop), including cart quantity and back-office product thumbnail issues.
+- Focused on reproducible bugs, small pull requests, and clear testing notes for maintainers.
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
